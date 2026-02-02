@@ -1,0 +1,27 @@
+---
+title: Methodology Diagram
+---
+
+flowchart LR
+    ds_select["Dataset Selection: 
+                    *Bank Marketing*"]
+    ds_load(Dataset Loading)
+    ds_preprocess(Dataset Preprocessing)
+    model_choose(Model Selection)
+
+    ds_select --> ds_load --> ds_preprocess --> model_choose --> training_train
+
+    subgraph training [Training Process]
+        training_train(Training Model)
+        training_validate(Validation)
+        training_evaluate(Evaluate Performace)
+
+        training_train --> training_validate --> training_evaluate --> goal_condition
+
+        goal_condition{Goal Met?}
+        goal_condition -- No --> training_train
+    end
+
+    goal_condition -- Yes --> model_finish
+
+    model_finish[Deploy Final Model]
