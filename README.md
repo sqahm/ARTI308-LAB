@@ -4,7 +4,10 @@ Name: Saeed Qassim Al-Ahmari
 Student ID: 2240004374  
 Education at: Imam Abdulrahman Bin Faisal University, College of Computer Science and Information Technology  
 
-This repository holds the lab assignments for the Machine Learning (ARTI-308) course throughout the semester.
+This repository holds the lab assignments for the Machine Learning (ARTI-308) course throughout the semester:
+
+- [Lab 1: Git & GitHub for ML Projects](/labs/1)
+- [Lab 2: ML Problem Identification, Dataset Selection & Methodology Diagram](/labs/2)
 
 Attribution
 ===========
