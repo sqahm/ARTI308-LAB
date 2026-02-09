@@ -6,8 +6,8 @@ Education at: Imam Abdulrahman Bin Faisal University, College of Computer Scienc
 
 This repository holds the lab assignments for the Machine Learning (ARTI-308) course throughout the semester:
 
-- [Lab 1: Git & GitHub for ML Projects](/labs/1/README.md)
-- [Lab 2: ML Problem Identification, Dataset Selection & Methodology Diagram](/labs/2/README.md)
+- [Lab 1: Git & GitHub for ML Projects](/labs/1)
+- [Lab 2: ML Problem Identification, Dataset Selection & Methodology Diagram](/labs/2)
 
 Attribution
 ===========
