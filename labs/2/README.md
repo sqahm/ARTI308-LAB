@@ -1,4 +1,4 @@
-# ARTI 308 - Machine Learning
+# Lab 2: ML Problem Identification, Dataset Selection & Methodology Diagram
 
 Problem Description
 ===================
