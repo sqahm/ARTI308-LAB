@@ -11,6 +11,7 @@ This repository holds the lab assignments for the Machine Learning (ARTI-308) co
 - [Lab 3: Data Understanding & Exploratory Data Analysis (EDA)](/labs/3)
 - [Lab 4: Data Quality Assessment & Preprocessing](/labs/4)
 - [Lab 5: Feature Engineering (Classification)](/labs/5)
+- [Lab 6: Linear Regression](/labs/6)
 
 Attribution
 ===========
