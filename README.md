@@ -13,7 +13,7 @@ This repository holds the lab assignments for the Machine Learning (ARTI-308) co
 - [Lab 5: Feature Engineering (Classification)](/labs/5)
 - [Lab 6: Linear Regression](/labs/6)
 - [Lab 7: Logistic Regression](/labs/7)
-
+- [Lab 8: K Nearest Neighbors](/labs/8)
 
 Attribution
 ===========
